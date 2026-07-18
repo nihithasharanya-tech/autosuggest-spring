@@ -3,14 +3,14 @@ console.log("hellooo from js");
 
 var users=[
     {
-        "name": "John Doe",
+        "name": "shitt",
         "gender": "Male",
-        "img": "john.png"
+        "img": "image copy.png"
     },
     {
-        "name": "Jane Doe",
+        "name": "pithh",
         "gender":"Female",
-        "img": "jane.png"
+        "img": "image.png"
     }
 ]
 
