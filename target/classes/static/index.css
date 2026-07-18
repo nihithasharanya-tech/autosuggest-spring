@@ -28,7 +28,6 @@ h1{
     border: 5px solid rgb(21, 8, 8);
     width: 350px;
     border-radius: 30px;
-    text-emphasis-color: calc(plum);
     text-align: center;
     margin-top: 70px;
     overflow: hidden;
@@ -36,10 +35,12 @@ h1{
     margin-right: auto;
     padding-bottom: 20px;
     background-color: rgb(15, 81, 157);
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 .card img{
     /* width: 300px; */
     width: 100%;
+
 }
 .card button{
     border-style: none;
