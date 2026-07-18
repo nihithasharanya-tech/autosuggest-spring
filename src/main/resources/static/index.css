@@ -1,24 +1,48 @@
 body{
     margin: 0px;
+    background-color: rgb(75, 205, 231);
 }
 h1{
     color:cyan;
 }
 .navbar{
     border-style: solid;
-    border-width: 1px;
+    border-width: 7px;
     border-color:aquamarine;
-    padding: 20px;
+    padding: 30px;
     text-align: center;
+    background-color: rgb(19, 75, 230);
 }
 
 .navbar a{
     padding: 20px;
     text-decoration: none;
-    color:rgb(177, 132, 5);
+    color:rgb(9, 9, 12);
     font-size: 30px;
 }
 .navbar a:hover{
-    color: orangered;
-    background-color: aquamarine;
+    color: plum;
+    background-color: rgb(184, 230, 19);
+}
+.card{
+    border: 5px solid rgb(21, 8, 8);
+    width: 350px;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 70px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    background-color: rgb(15, 81, 157);
+}
+.card img{
+    /* width: 300px; */
+    width: 100%;
+}
+.card button{
+    border-style: none;
+    padding: 10px;
+    width: 80%;
+    border-radius: 8px;
 }
