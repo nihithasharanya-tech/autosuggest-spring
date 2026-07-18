@@ -15,5 +15,10 @@ h1{
 .navbar a{
     padding: 20px;
     text-decoration: none;
-    color:blueviolet;
+    color:rgb(177, 132, 5);
+    font-size: 30px;
+}
+.navbar a:hover{
+    color: orangered;
+    background-color: aquamarine;
 }
